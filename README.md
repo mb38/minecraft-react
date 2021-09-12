@@ -1,6 +1,4 @@
-## Description
-stack: 
-<br />
+## Stack:
 React,
 <br />
 Recoil,
