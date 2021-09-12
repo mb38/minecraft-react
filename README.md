@@ -5,7 +5,7 @@ Recoil,
 <br />
 React three fiber
 
-## Controls
+## Controls:
 WASD = moving;
 <br />
 Space = jump;
